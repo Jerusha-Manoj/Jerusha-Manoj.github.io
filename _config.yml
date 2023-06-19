@@ -39,14 +39,12 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: tiktok
+    url: https://www.tiktok.com/@_curl_diaries_
+  - title: blog
+    url: https://jerusha-manoj.github.io/curlyhairblog/
   - title: linkedin
-    url: https://www.linkedin.com/in/jerusha-m-ba830023b
+    url: https://www.linkedin.com/in/jerusha-manoj-ba830023b/
   - title: github
     url: https://github.com/Jerusha-Manoj
 

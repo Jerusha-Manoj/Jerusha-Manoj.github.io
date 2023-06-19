@@ -15,13 +15,9 @@
           <div class="modal-body">
             <h2>{{ post.title }}</h2>
             <hr class="star-primary">
-            {% for image in post.images %}
-            <img src="img/portfolio/{{ image }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-            {% endfor %}
+            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             {% if post.description %}
-            <div class="paragraph-description">
-              {{ post.description | markdownify }}
-            </div>
+            <p>{{ post.description }}</p>
             {% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}

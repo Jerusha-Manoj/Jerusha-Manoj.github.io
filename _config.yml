@@ -48,11 +48,8 @@ social:
   - title: github
     url: https://github.com/Jerusha-Manoj
 
-# Postal address (add as many lines as necessary)
-address:
-
 # Credits content
-credits: 'Feel free to look at my socials and email me jerusham55@gmail.com'
+credits: 'Feel free to look at my socials and email me at jerusham55@gmail.com'
 
 # Build settings
 markdown: kramdown

@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2023-06-19
+img: DMA.png
+alt: image-alt
+project-date: June 2022
+client: DMA
+category: President
+description: As the Youth Forum President at DMA (Detroit Malayalee Association), I took on a leadership role in opening doors of opportunity within the organization to showcase the talents of our youth members. I successfully motivated over 20 young individuals to actively participate in DMA's cultural programs. These programs encompass a wide range of activities, including singing, dancing, acting, photography, emceeing, and conducting games. I encouraged youth to engage and contribute in any way they could, fostering a sense of involvement and ownership. One notable initiative was the yearly magazine created by the organization. In this role, I strongly encouraged kids to submit their drawings, writings, and other creative works, providing them a platform to express themselves and showcase their talents. Additionally, I co-led a creative programming workshop for students, incorporating micro:bit and Java basics. By leveraging social media promotion, including Facebook advertising, we achieved a remarkable 50% increase in workshop attendance. During the workshop, I took the stage and delivered presentations, engaging students in interactive sessions to teach them about micro:bit and fundamental concepts of Java programming, such as functions, variables, input, and output. The positive feedback received from the participants indicated their enhanced understanding and enthusiasm for coding. Furthermore, I took the initiative to host a successful charity event aimed at collecting canned food for Gleaners, a local charitable organization. Through strategic advertising using flyers and personal motivation, I encouraged kids to reach out to their connections and ask for donations of canned food. As a result, we collected over 500 cans of food, making a positive impact on the community and fostering a sense of social responsibility among the youth. In summary, as DMA's Youth Forum President, I demonstrated effective leadership by motivating youth participation in cultural programs, organizing a successful programming workshop, and hosting a charitable event. My efforts not only showcased the talents of our youth but also empowered them to make a positive difference in the community.
+---

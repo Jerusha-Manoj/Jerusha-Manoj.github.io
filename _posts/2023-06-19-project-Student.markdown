@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-date: 2023-06-19
+date: 2023-06-18
 img: Umich.jpeg
 alt: image-alt
 project-date: June 2022

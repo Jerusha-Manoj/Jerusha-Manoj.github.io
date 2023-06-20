@@ -262,7 +262,7 @@ section.success {
     }
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 49%;
-      max-width: 49%;
+      max-width: 70%;
     }
   }
   @media (min-width: 960px) {

@@ -22,18 +22,18 @@ heading: President, Vice President, Member
 In my first month as DMA's Youth Forum President, I organized a successful charity event aimed at collecting canned food for Gleaners, a local charitable organization. Through strategic communication efforts, including flyers and messages, I effectively encouraged participation and engagement from diverse age groups. Not only did we surpass our goal of collecting 300 cans, but we exceeded expectations by gathering over 500 cans of food. Additionally, I enlisted Youth Forum volunteers to assist in shelving the collected food, providing them with a valuable hands-on experience and a deeper understanding of the impactful work carried out by Gleaners.
 
 #### Impacts
--Increased awareness and visibility of Gleaners, the local charitable organization, within the community.
--Engaged individuals and provided them with an opportunity to make a positive impact by donating canned food to support Gleaners' cause.
--Fostered a sense of unity and collaboration among the Youth Forum volunteers who participated in shelving the collected food.
--Provided volunteers with a hands-on experience, allowing them to develop a deeper understanding of Gleaners' impactful work and the importance of community involvement.
--Contributed to addressing food insecurity by collecting over 500 cans of food, surpassing the initial goal of 300, and making a tangible difference in the lives of those in need.
+-Increased awareness and visibility of Gleaners, the local charitable organization, within the community.<br>
+-Engaged individuals and provided them with an opportunity to make a positive impact by donating canned food to support Gleaners' cause.<br>
+-Fostered a sense of unity and collaboration among the Youth Forum volunteers who participated in shelving the collected food.<br>
+-Provided volunteers with a hands-on experience, allowing them to develop a deeper understanding of Gleaners' impactful work and the importance of community involvement.<br>
+-Contributed to addressing food insecurity by collecting over 500 cans of food, surpassing the initial goal of 300, and making a tangible difference in the lives of those in need.<br>
 
 #### Skills Developed
--Leadership skills demonstrated through successful organization of a charity event as Youth Forum President.
--Effective communication methods tailored to different age groups, with personal texts proving most impactful.
--Problem-solving and creative thinking showcased through overcoming challenges and finding innovative solutions to encourage participation.
--Experience in volunteer management and fostering teamwork during the event.
--Commitment to social responsibility and community engagement, aligning with company values and initiatives.
+-Leadership skills demonstrated through successful organization of a charity event as Youth Forum President.<br>
+-Effective communication methods tailored to different age groups, with personal texts proving most impactful.<br>
+-Problem-solving and creative thinking showcased through overcoming challenges and finding innovative solutions to encourage participation.<br>
+-Experience in volunteer management and fostering teamwork during the event.<br>
+-Commitment to social responsibility and community engagement, aligning with company values and initiatives.<br>
 
 ---
 <style>
@@ -57,19 +57,19 @@ I co-led a creative programming workshop for students, incorporating micro:bit a
 ![DMA Image](img/DMA/tech.JPG)
 
 #### Impacts
--Increased access to programming knowledge for participants.
--Improved digital literacy among workshop attendees.
--Promotion of STEM education and interest in coding.
--Contribution to building a pipeline of future programmers and technologists.
--Strengthening the local community through educational initiatives.
+-Increased access to programming knowledge for participants.<br>
+-Improved digital literacy among workshop attendees.<br>
+-Promotion of STEM education and interest in coding.<br>
+-Contribution to building a pipeline of future programmers and technologists.<br>
+-Strengthening the local community through educational initiatives.<br>
 
 #### Skills Developed
--Leadership: Co-leading the workshop required taking charge, coordinating with others, and effectively delivering presentations, showcasing your leadership skills.
--Communication: Engaging students through interactive sessions and delivering presentations demonstrated your ability to communicate complex concepts in a clear and engaging manner.
--Adaptability: Leveraging social media promotion and incorporating different programming platforms showcased your adaptability in utilizing various tools to achieve desired outcomes.
--Teaching and Facilitation: Guiding students through the workshop and helping them understand programming concepts highlighted your skills in teaching and facilitating a learning environment.
--Problem-solving: Overcoming challenges, such as promoting the workshop and ensuring active student participation, required problem-solving and finding effective solutions.
--Collaboration: Co-leading the workshop involved collaborating with other organizers, sharing responsibilities, and working together to create a successful event.
+-Leadership: Co-leading the workshop required taking charge, coordinating with others, and effectively delivering presentations, showcasing your leadership skills.<br>
+-Communication: Engaging students through interactive sessions and delivering presentations demonstrated your ability to communicate complex concepts in a clear and engaging manner.<br>
+-Adaptability: Leveraging social media promotion and incorporating different programming platforms showcased your adaptability in utilizing various tools to achieve desired outcomes.<br>
+-Teaching and Facilitation: Guiding students through the workshop and helping them understand programming concepts highlighted your skills in teaching and facilitating a learning environment.<br>
+-Problem-solving: Overcoming challenges, such as promoting the workshop and ensuring active student participation, required problem-solving and finding effective solutions.<br>
+-Collaboration: Co-leading the workshop involved collaborating with other organizers, sharing responsibilities, and working together to create a successful event.<br>
 
 ---
 ### Togetherness
@@ -79,17 +79,17 @@ As the Youth Forum President at DMA, I have actively focused on motivating and e
 ![DMA Image](img/DMA/picnic.JPG)
 
 #### Impacts
--Increased cultural awareness: By organizing and promoting diverse cultural programs, you contribute to increasing cultural awareness among the community. People have the opportunity to learn about different traditions, customs, and art forms, fostering a more inclusive and culturally rich environment.
--Skill development and empowerment: Through their participation in cultural programs, individuals gain the opportunity to develop new skills and talents. This empowerment enables them to express themselves creatively, boost their self-confidence, and pursue their passions.
--Community engagement: The cultural programs you organize create platforms for community members to come together, interact, and engage in shared activities. This fosters a sense of community spirit and unity, strengthening social bonds and relationships.
+-Increased cultural awareness: By organizing and promoting diverse cultural programs, you contribute to increasing cultural awareness among the community. People have the opportunity to learn about different traditions, customs, and art forms, fostering a more inclusive and culturally rich environment.<br>
+-Skill development and empowerment: Through their participation in cultural programs, individuals gain the opportunity to develop new skills and talents. This empowerment enables them to express themselves creatively, boost their self-confidence, and pursue their passions.<br>
+-Community engagement: The cultural programs you organize create platforms for community members to come together, interact, and engage in shared activities. This fosters a sense of community spirit and unity, strengthening social bonds and relationships.<br>
 
 #### Skills Developed
--Leadership: Taking on the role of Youth Forum President and actively focusing on motivating and engaging youth members in cultural programs demonstrates your leadership abilities in organizing and driving initiatives.
--Communication: Effectively communicating with youth members and promoting cultural programs requires strong communication skills to convey the importance and benefits of participation.
--Event management: Organizing and coordinating cultural programs involves skills in event planning, scheduling, and logistics management to ensure smooth execution.
--Collaboration: Working with youth members, volunteers, and other stakeholders to plan and execute cultural programs fosters collaboration and teamwork skills.
--Empathy and inclusivity: Creating a sense of ownership and empowerment among youth members involves understanding their needs and perspectives, promoting inclusivity, and ensuring everyone feels valued and included.
--Creativity and adaptability: Developing diverse cultural programs that encompass a range of activities requires creative thinking and adaptability to cater to different interests and preferences.
+-Leadership: Taking on the role of Youth Forum President and actively focusing on motivating and engaging youth members in cultural programs demonstrates your leadership abilities in organizing and driving initiatives.<br>
+-Communication: Effectively communicating with youth members and promoting cultural programs requires strong communication skills to convey the importance and benefits of participation.<br>
+-Event management: Organizing and coordinating cultural programs involves skills in event planning, scheduling, and logistics management to ensure smooth execution.<br>
+-Collaboration: Working with youth members, volunteers, and other stakeholders to plan and execute cultural programs fosters collaboration and teamwork skills.<br>
+-Empathy and inclusivity: Creating a sense of ownership and empowerment among youth members involves understanding their needs and perspectives, promoting inclusivity, and ensuring everyone feels valued and included.<br>
+-Creativity and adaptability: Developing diverse cultural programs that encompass a range of activities requires creative thinking and adaptability to cater to different interests and preferences.<br>
 
 ---
 ---

@@ -83,7 +83,7 @@ heading: Youth President, Youth Vice President, Member
 
 ---
 ---
-### 3. Togetherness
+### Togetherness
 <img src="img/DMA/picnic.JPG" alt="DMA Image" style="width: 600px; height: auto;"><br>
 
 #### Summary

@@ -56,6 +56,7 @@ heading: Youth President, Youth Vice President, Member
 </div>
 
 ###### That was part of the DMA Tech Day Ad I contributed to!
+<br>
 
 #### Summary
 <p>I co-led a creative programming workshop for students, incorporating micro:bit and Java basics. By leveraging social media promotion, including Facebook and youtube advertising, we achieved a 50% increase in workshop attendance. During the workshop, I took the stage and delivered presentations, engaging students in interactive sessions to teach them about micro:bit and fundamental concepts of Java programming, such as functions, variables, input, and output. The positive feedback received from the participants indicated their enhanced understanding and enthusiasm for coding.</p><br>

@@ -13,16 +13,17 @@ heading: President, Vice President, Member
 subheading: Jerusha Manoj
 ---
 
-# Presidency
+### Presidency
 ---
-## Successful Charity Event
+---
+# Successful Charity Event
 ![DMA Image](img/DMA/cans.JPG)
 In my first month as DMA's Youth Forum President, I organized a charity event aimed at collecting canned food for the local charitable organization, Gleaners. Our goal was to collect 300 cans of food in three weeks, but we exceeded expectations, and over 500 cans were collected. In addition to the collection effort, I enlisted Youth Forum volunteers to assist in shelving the food and learn about Gleaners, providing them with a hands-on experience and a deeper understanding of the organization's impactful work. This event not only made a positive impact on the community but also fostered a sense of social responsibility and civic engagement among the youth volunteers.
 
 ---
-## Co-led DMA's Tech Day
+# Co-led DMA's Tech Day
 <video width="640" height="480" controls>
-  <source src="img/TechDay.mp4" type="video/quicktime">
+  <source src="img/TechDay.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -48,28 +49,4 @@ Vestibulum id erat eget dui fermentum tempus. Aliquam aliquet diam sed commodo p
 
 #### Subsection 1.2
 Phasellus eleifend magna ut velit ultricies, sit amet rhoncus felis rhoncus. Duis ac maximus dolor. Curabitur vitae arcu vel metus tempus tincidunt.
-
-### Section 2
-Nulla facilisi. Nam pulvinar lectus ac justo fringilla, eget commodo mi volutpat. Nam eget erat vestibulum, feugiat enim sit amet, dapibus sapien.
-
-#### Subsection 2.1
-Curabitur sed erat a nunc rutrum fringilla. Nullam lobortis turpis sit amet metus aliquet rhoncus. Suspendisse ac leo et urna lobortis dignissim.
-
-#### Subsection 2.2
-Sed consectetur velit vitae sem laoreet, ac aliquet elit laoreet. Donec hendrerit felis nec felis lacinia, sit amet euismod odio iaculis. Duis ut faucibus nisi.
-
-## Images
-![DMA Image](img/portfolio/DMA.png)
-![Moran Image](img/portfolio/Moran.png)
-
----
-
-# Another Section
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel luctus sapien, et tincidunt quam. In hac habitasse platea dictumst. Fusce non nibh vestibulum, dapibus nunc et, ultrices lectus.
-
-## Subheading 1
-Pellentesque interdum felis nec felis dictum fringilla. Nunc hendrerit auctor augue, eu tincidunt quam. In lacinia, lectus id aliquam finibus, tortor lectus volutpat libero.
-
-## Subheading 2
-Fusce non nibh vestibulum, dapibus nunc et, ultrices lectus. Nulla varius ipsum id ante efficitur, id sagittis odio vulputate. Donec efficitur, sapien eget vestibulum fringilla, dolor tellus venenatis dolor.
 

@@ -14,9 +14,13 @@ subheading: Jerusha Manoj
 ---
 
 # Presidency
-As the Youth Forum President at DMA (Detroit Malayalee Association), I took on a leadership role in opening doors of opportunity within the organization to showcase the talents of our youth members. I successfully motivated over 20 young individuals to actively participate in DMA's cultural programs. These programs encompass a wide range of activities, including singing, dancing, acting, photography, emceeing, and conducting games. I encouraged youth to engage and contribute in any way they could, fostering a sense of involvement and ownership.
+<div class="image-container">
+  <img src="img/DMA/cans.JPG" alt="Image 1">
+  <img src="img/DMA/cans1.JPG" alt="Image 2">
+</div>
+In my first month as DMA's Youth Forum President, I organized a highly successful charity event aimed at collecting canned food for the local charitable organization, Gleaners. Our goal was to collect 300 cans of food, but the response from the community exceeded expectations, resulting in over 500 cans collected. In addition to the collection effort, I enlisted Youth Forum volunteers to assist in shelving the food and learn about Gleaners, providing them with a hands-on experience and a deeper understanding of the organization's impactful work. This event not only made a positive impact on the community but also fostered a sense of social responsibility and civic engagement among the youth volunteers.
 
-One notable initiative was the yearly magazine created by the organization. In this role, I strongly encouraged kids to submit their drawings, writings, and other creative works, providing them a platform to express themselves and showcase their talents.
+
 
 Additionally, I co-led a creative programming workshop for students, incorporating micro:bit and Java basics. By leveraging social media promotion, including Facebook advertising, we achieved a remarkable 50% increase in workshop attendance. During the workshop, I took the stage and delivered presentations, engaging students in interactive sessions to teach them about micro:bit and fundamental concepts of Java programming, such as functions, variables, input, and output. The positive feedback received from the participants indicated their enhanced understanding and enthusiasm for coding.
 

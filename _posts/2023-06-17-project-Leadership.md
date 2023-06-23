@@ -14,15 +14,17 @@ subheading: Jerusha Manoj
 ---
 
 # Presidency
+
+## Successful Charity Event
 ![DMA Image](img/DMA/cans.JPG)
-<img src="img/DMA/cans.JPG" alt="Image" width="400" height="300">
-In my first month as DMA's Youth Forum President, I organized a highly successful charity event aimed at collecting canned food for the local charitable organization, Gleaners. Our goal was to collect 300 cans of food, but the response from the community exceeded expectations, resulting in over 500 cans collected. In addition to the collection effort, I enlisted Youth Forum volunteers to assist in shelving the food and learn about Gleaners, providing them with a hands-on experience and a deeper understanding of the organization's impactful work. This event not only made a positive impact on the community but also fostered a sense of social responsibility and civic engagement among the youth volunteers.
+In my first month as DMA's Youth Forum President, I organized a charity event aimed at collecting canned food for the local charitable organization, Gleaners. Our goal was to collect 300 cans of food in three weeks, but we exceeded expectations, and over 500 cans were collected. In addition to the collection effort, I enlisted Youth Forum volunteers to assist in shelving the food and learn about Gleaners, providing them with a hands-on experience and a deeper understanding of the organization's impactful work. This event not only made a positive impact on the community but also fostered a sense of social responsibility and civic engagement among the youth volunteers.
 
 
-<video controls>
+<video width="640" height="480" controls>
   <source src="img/TechDay.mov" type="video/quicktime">
   Your browser does not support the video tag.
 </video>
+
 Additionally, I co-led a creative programming workshop for students, incorporating micro:bit and Java basics. By leveraging social media promotion, including Facebook advertising, we achieved a remarkable 50% increase in workshop attendance. During the workshop, I took the stage and delivered presentations, engaging students in interactive sessions to teach them about micro:bit and fundamental concepts of Java programming, such as functions, variables, input, and output. The positive feedback received from the participants indicated their enhanced understanding and enthusiasm for coding.
 
 Furthermore, I took the initiative to host a successful charity event aimed at collecting canned food for Gleaners, a local charitable organization. Through strategic advertising using flyers and personal motivation, I encouraged kids to reach out to their connections and ask for donations of canned food. As a result, we collected over 500 cans of food, making a positive impact on the community and fostering a sense of social responsibility among the youth.

@@ -19,14 +19,14 @@ heading: Youth President, Youth Vice President, Member
 <img src="img/DMA/cans.JPG" alt="DMA Image" style="width: 600px; height: auto;"><br>
 
 #### Summary
-<p>In my first month as DMA's Youth Forum President, I organized a successful charity event aimed at collecting canned food for Gleaners, a local charitable organization. Through strategic communication efforts, including flyers and messages, I effectively encouraged participation and engagement from diverse age groups. Not only did we surpass our goal of collecting 300 cans, but we exceeded expectations by gathering over 500 cans of food. Additionally, I enlisted Youth Forum volunteers to assist in shelving the collected food, providing them with a valuable hands-on experience and a deeper understanding of the impactful work carried out by Gleaners.</p>
+<p>In my first month as DMA's Youth Forum President, I organized a successful charity event aimed at collecting canned food for Gleaners, a local charitable organization. Through strategic communication efforts, including flyers and messages, I effectively encouraged participation and engagement from diverse age groups. Not only did we surpass our goal of collecting 300 cans, but we exceeded expectations by gathering over 500 cans of food. Additionally, I enlisted Youth Forum volunteers to assist in shelving the collected food, providing them with a valuable hands-on experience and a deeper understanding of the impactful work carried out by Gleaners.</p><br>
 
 <img src="img/DMA/shelf.JPG" alt="DMA Image" style="width: 400px; height: auto;"><br>
 
 #### Impacts
 <p>-Increased awareness and visibility of Gleaners, the local charitable organization, within the community.<br>
 -Engaged individuals and provided them with an opportunity to make a positive impact by donating canned food to support Gleaners' cause.<br>
--Provided volunteers with a hands-on experience, allowing them to develop a deeper understanding of Gleaners' impactful work and the importance of community involvement.<br></p>
+-Provided volunteers with a hands-on experience, allowing them to develop a deeper understanding of Gleaners' impactful work and the importance of community involvement.<br></p><br>
 
 ![DMA Image](img/DMA/flyer.JPG){: width="300" height="500" }
 ###### The Flyer Made to Avdertise
@@ -58,16 +58,16 @@ heading: Youth President, Youth Vice President, Member
 ###### That was part of the DMA Tech Day Ad I contributed to!
 
 #### Summary
-<p>I co-led a creative programming workshop for students, incorporating micro:bit and Java basics. By leveraging social media promotion, including Facebook and youtube advertising, we achieved a 50% increase in workshop attendance. During the workshop, I took the stage and delivered presentations, engaging students in interactive sessions to teach them about micro:bit and fundamental concepts of Java programming, such as functions, variables, input, and output. The positive feedback received from the participants indicated their enhanced understanding and enthusiasm for coding.</p>
+<p>I co-led a creative programming workshop for students, incorporating micro:bit and Java basics. By leveraging social media promotion, including Facebook and youtube advertising, we achieved a 50% increase in workshop attendance. During the workshop, I took the stage and delivered presentations, engaging students in interactive sessions to teach them about micro:bit and fundamental concepts of Java programming, such as functions, variables, input, and output. The positive feedback received from the participants indicated their enhanced understanding and enthusiasm for coding.</p><br>
 
-![DMA Image](img/DMA/tech.JPG){: width="1000" height="500" }<br>
+![DMA Image](img/DMA/tech.JPG){: width="1100" height="700" }<br>
 
 #### Impacts
 <p>-Increased access to programming knowledge for participants.<br>
 -Improved digital literacy among workshop attendees.<br>
 -Promotion of STEM education and interest in coding.<br>
 -Contribution to building a pipeline of future programmers and technologists.<br>
--Strengthening the local community through educational initiatives.<br></p>
+-Strengthening the local community through educational initiatives.<br></p><br>
 
 <img src="img/DMA/present.jpg" alt="DMA Image" style="width: 600px; height: auto;"><br>
 

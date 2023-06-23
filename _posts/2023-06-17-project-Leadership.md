@@ -15,7 +15,7 @@ heading: Youth President, Youth Vice President, Member
 # Presidency
 ---
 ---
-### A Successful Charity Event
+### 1. A Successful Charity Event
 ![DMA Image](img/DMA/cans.JPG){: style="width: 600px; height: auto; object-fit: cover;"}
 
 #### Summary
@@ -42,7 +42,7 @@ heading: Youth President, Youth Vice President, Member
 }
 </style>
 
-### Co-led DMA's Tech Day
+### 2. Co-led DMA's Tech Day
 
 <div class="video-container">
     <video width="640" height="480" controls>
@@ -51,11 +51,11 @@ heading: Youth President, Youth Vice President, Member
     </video>
 </div>
 
-###### That was the DMA Tech Day Ad I contributed to!
+###### That was part of the DMA Tech Day Ad I contributed to!
 
 #### Summary
 <p>I co-led a creative programming workshop for students, incorporating micro:bit and Java basics. By leveraging social media promotion, including Facebook and youtube advertising, we achieved a 50% increase in workshop attendance. During the workshop, I took the stage and delivered presentations, engaging students in interactive sessions to teach them about micro:bit and fundamental concepts of Java programming, such as functions, variables, input, and output. The positive feedback received from the participants indicated their enhanced understanding and enthusiasm for coding.</p>
-![DMA Image](img/DMA/tech.JPG)
+![DMA Image](img/DMA/tech.JPG){: style="width: 600px; height: auto; object-fit: cover;"}
 
 #### Impacts
 <p>-Increased access to programming knowledge for participants.<br>
@@ -65,26 +65,26 @@ heading: Youth President, Youth Vice President, Member
 -Strengthening the local community through educational initiatives.<br></p>
 
 #### Skills Developed
-<p>-Leadership: Co-leading the workshop required taking charge, coordinating with others, and effectively delivering presentations, showcasing your leadership skills.<br>
--Communication: Engaging students through interactive sessions and delivering presentations demonstrated your ability to communicate complex concepts in a clear and engaging manner.<br>
--Adaptability: Leveraging social media promotion and incorporating different programming platforms showcased your adaptability in utilizing various tools to achieve desired outcomes.<br>
--Teaching and Facilitation: Guiding students through the workshop and helping them understand programming concepts highlighted your skills in teaching and facilitating a learning environment.<br>
+<p>-Leadership: Co-leading the workshop required taking charge, coordinating with others, and effectively delivering presentations, showcasing leadership skills.<br>
+-Communication: Engaging students through interactive sessions and delivering presentations demonstrated ability to communicate complex concepts in a clear and engaging manner.<br>
+-Adaptability: Leveraging social media promotion and incorporating different programming platforms showcased adaptability in utilizing various tools to achieve desired outcomes.<br>
+-Teaching and Facilitation: Guiding students through the workshop and helping them understand programming concepts highlighted skills in teaching and facilitating a learning environment.<br>
 -Problem-solving: Overcoming challenges, such as promoting the workshop and ensuring active student participation, required problem-solving and finding effective solutions.<br>
 -Collaboration: Co-leading the workshop involved collaborating with other organizers, sharing responsibilities, and working together to create a successful event.<br></p>
 
 ---
-### Togetherness
+### 3. Togetherness
 <img src="img/DMA/picnic.JPG" alt="DMA Image" style="width: 600px; height: auto;">
 #### Summary
 <p>As the Youth Forum President at DMA, I have actively focused on motivating and engaging our youth members in various cultural programs. With over 20 young individuals participating, our programs encompass a wide range of activities including singing, dancing, acting, photography, emceeing, and conducting games. I have encouraged and fostered their involvement, creating a sense of ownership and empowerment among them.</p>
 
 #### Impacts
-<p>-Increased cultural awareness: By organizing and promoting diverse cultural programs, you contribute to increasing cultural awareness among the community. People have the opportunity to learn about different traditions, customs, and art forms, fostering a more inclusive and culturally rich environment.<br>
--Skill development and empowerment: Through their participation in cultural programs, individuals gain the opportunity to develop new skills and talents. This empowerment enables them to express themselves creatively, boost their self-confidence, and pursue their passions.<br>
--Community engagement: The cultural programs you organize create platforms for community members to come together, interact, and engage in shared activities. This fosters a sense of community spirit and unity, strengthening social bonds and relationships.<br></p>
+<p>-Increased cultural awareness: Organized and promoted diverse cultural programs, contributing to a greater understanding and appreciation of different traditions, customs, and art forms within the community.<br>
+-Skill development and empowerment: Through participation in cultural programs, youth members had the opportunity to develop new skills and talents, boosting their self-confidence and empowering them to express themselves creatively.<br>
+-Sense of community: Created a strong sense of community among the youth, fostering connections and friendships within the organization. This support system provided encouragement, guidance, and collaboration, enhancing the overall experience for all participants.<br></p>
 
 #### Skills Developed
-<p>-Leadership: Taking on the role of Youth Forum President and actively focusing on motivating and engaging youth members in cultural programs demonstrates your leadership abilities in organizing and driving initiatives.<br>
+<p>-Leadership: Taking on the role of Youth Forum President and actively focusing on motivating and engaging youth members in cultural programs demonstrates leadership abilities in organizing and driving initiatives.<br>
 -Communication: Effectively communicating with youth members and promoting cultural programs requires strong communication skills to convey the importance and benefits of participation.<br>
 -Event management: Organizing and coordinating cultural programs involves skills in event planning, scheduling, and logistics management to ensure smooth execution.<br>
 -Collaboration: Working with youth members, volunteers, and other stakeholders to plan and execute cultural programs fosters collaboration and teamwork skills.<br>

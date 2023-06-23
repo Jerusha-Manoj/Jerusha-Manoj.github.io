@@ -16,7 +16,7 @@ heading: President, Vice President, Member
 ---
 ---
 ### A Successful Charity Event
-<img src="img/DMA/cans1.JPG" alt="DMA Image" width="300" height="200">
+![DMA Image](img/DMA/cans.JPG)
 
 #### Summary
 In my first month as DMA's Youth Forum President, I organized a successful charity event aimed at collecting canned food for Gleaners, a local charitable organization. Through strategic communication efforts, including flyers and messages, I effectively encouraged participation and engagement from diverse age groups. Not only did we surpass our goal of collecting 300 cans, but we exceeded expectations by gathering over 500 cans of food. Additionally, I enlisted Youth Forum volunteers to assist in shelving the collected food, providing them with a valuable hands-on experience and a deeper understanding of the impactful work carried out by Gleaners.

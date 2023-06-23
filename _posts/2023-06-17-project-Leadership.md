@@ -16,18 +16,19 @@ heading: Youth President, Youth Vice President, Member
 ---
 ---
 ### 1. A Successful Charity Event
-![DMA Image](img/DMA/cans.JPG){: style="width: 600px; height: auto; object-fit: cover;"}
+<img src="img/DMA/cans.JPG" alt="DMA Image" style="width: 600px; height: auto;">
 
 #### Summary
 <p>In my first month as DMA's Youth Forum President, I organized a successful charity event aimed at collecting canned food for Gleaners, a local charitable organization. Through strategic communication efforts, including flyers and messages, I effectively encouraged participation and engagement from diverse age groups. Not only did we surpass our goal of collecting 300 cans, but we exceeded expectations by gathering over 500 cans of food. Additionally, I enlisted Youth Forum volunteers to assist in shelving the collected food, providing them with a valuable hands-on experience and a deeper understanding of the impactful work carried out by Gleaners.</p>
 
-![DMA Image](img/DMA/shelf.JPG){: style="width: 600px; height: auto; object-fit: cover;"}
+<img src="img/DMA/shelf.JPG" alt="DMA Image" style="width: 400px; height: auto;">
 
 #### Impacts
 <p>-Increased awareness and visibility of Gleaners, the local charitable organization, within the community.<br>
 -Engaged individuals and provided them with an opportunity to make a positive impact by donating canned food to support Gleaners' cause.<br>
 -Provided volunteers with a hands-on experience, allowing them to develop a deeper understanding of Gleaners' impactful work and the importance of community involvement.<br></p>
-![DMA Image](img/DMA/flyer.JPG){: style="width: 600px; height: auto; object-fit: cover;"}
+
+<img src="img/DMA/flyer.JPG" alt="DMA Image" style="width: 400px; height: auto;">
 
 #### Skills Developed
 <p>-Leadership skills demonstrated through successful organization of a charity event as Youth Forum President.<br>
@@ -57,7 +58,7 @@ heading: Youth President, Youth Vice President, Member
 #### Summary
 <p>I co-led a creative programming workshop for students, incorporating micro:bit and Java basics. By leveraging social media promotion, including Facebook and youtube advertising, we achieved a 50% increase in workshop attendance. During the workshop, I took the stage and delivered presentations, engaging students in interactive sessions to teach them about micro:bit and fundamental concepts of Java programming, such as functions, variables, input, and output. The positive feedback received from the participants indicated their enhanced understanding and enthusiasm for coding.</p>
 
-![DMA Image](img/DMA/tech.JPG){: style="width: 600px; height: auto; object-fit: cover;"}
+<img src="img/DMA/tech.JPG" alt="DMA Image" style="width: 600px; height: auto;">
 
 #### Impacts
 <p>-Increased access to programming knowledge for participants.<br>
@@ -66,7 +67,7 @@ heading: Youth President, Youth Vice President, Member
 -Contribution to building a pipeline of future programmers and technologists.<br>
 -Strengthening the local community through educational initiatives.<br></p>
 
-![DMA Image](img/DMA/present.jpg){: style="width: 600px; height: auto; object-fit: cover;"}
+<img src="img/DMA/present.jpg" alt="DMA Image" style="width: 600px; height: auto;">
 
 #### Skills Developed
 <p>-Leadership: Co-leading the workshop required taking charge, coordinating with others, and effectively delivering presentations, showcasing leadership skills.<br>

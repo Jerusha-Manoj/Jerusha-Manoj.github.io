@@ -18,9 +18,12 @@
                 <h5>{{ post.subheading }}</h5>
                 <hr class="star-primary">
               </div>
-              <div class="col-lg-12 text-center">
+              <div class="col-lg-12">
                 <div class="post-content">
-                  <p style="text-align: left;">{{ post.content | markdownify }}</p>
+                  {% assign paragraphs = post.content | markdownify | split: '</p>' %}
+                  {% for paragraph in paragraphs %}
+                    <p style="text-align: left;">{{ paragraph | replace: '<p>', '' | append: '</p>' }}</p>
+                  {% endfor %}
                 </div>
               </div>
             </div>

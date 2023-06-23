@@ -40,6 +40,7 @@ heading: Youth President, Youth Vice President, Member
 -Commitment to social responsibility and community engagement, aligning with company values and initiatives.<br></p>
 
 ---
+---
 <style>
 .video-container {
     margin-top: -20px;
@@ -80,6 +81,7 @@ heading: Youth President, Youth Vice President, Member
 -Problem-solving: Overcoming challenges, such as promoting the workshop and ensuring active student participation, required problem-solving and finding effective solutions.<br>
 -Collaboration: Co-leading the workshop involved collaborating with other organizers, sharing responsibilities, and working together to create a successful event.<br></p><br>
 
+---
 ---
 ### 3. Togetherness
 <img src="img/DMA/picnic.JPG" alt="DMA Image" style="width: 600px; height: auto;"><br>

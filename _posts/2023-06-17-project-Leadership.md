@@ -10,31 +10,91 @@ client: DMA
 #category: Web Development
 #description: This is an example portfolio item description.
 heading: President, Vice President, Member
-subheading: Jerusha Manoj
+#subheading: Jerusha Manoj
 ---
-
 # Presidency
 ---
 ---
-### Successful Charity Event
-![DMA Image](img/DMA/cans.JPG)
+### A Successful Charity Event
+<img src="img/DMA/cans1.JPG" alt="DMA Image" width="300" height="200">
 
-In my first month as DMA's Youth Forum President, I organized a charity event aimed at collecting canned food for the local charitable organization, Gleaners. Our goal was to collect 300 cans of food in three weeks, but we exceeded expectations, and over 500 cans were collected. In addition to the collection effort, I enlisted Youth Forum volunteers to assist in shelving the food and learn about Gleaners, providing them with a hands-on experience and a deeper understanding of the organization's impactful work. This event not only made a positive impact on the community but also fostered a sense of social responsibility and civic engagement among the youth volunteers.
+#### Summary
+In my first month as DMA's Youth Forum President, I organized a successful charity event aimed at collecting canned food for Gleaners, a local charitable organization. Through strategic communication efforts, including flyers and messages, I effectively encouraged participation and engagement from diverse age groups. Not only did we surpass our goal of collecting 300 cans, but we exceeded expectations by gathering over 500 cans of food. Additionally, I enlisted Youth Forum volunteers to assist in shelving the collected food, providing them with a valuable hands-on experience and a deeper understanding of the impactful work carried out by Gleaners.
+
+#### Impacts
+-Increased awareness and visibility of Gleaners, the local charitable organization, within the community.
+-Engaged individuals and provided them with an opportunity to make a positive impact by donating canned food to support Gleaners' cause.
+-Fostered a sense of unity and collaboration among the Youth Forum volunteers who participated in shelving the collected food.
+-Provided volunteers with a hands-on experience, allowing them to develop a deeper understanding of Gleaners' impactful work and the importance of community involvement.
+-Contributed to addressing food insecurity by collecting over 500 cans of food, surpassing the initial goal of 300, and making a tangible difference in the lives of those in need.
+
+#### Skills Developed
+-Leadership skills demonstrated through successful organization of a charity event as Youth Forum President.
+-Effective communication methods tailored to different age groups, with personal texts proving most impactful.
+-Problem-solving and creative thinking showcased through overcoming challenges and finding innovative solutions to encourage participation.
+-Experience in volunteer management and fostering teamwork during the event.
+-Commitment to social responsibility and community engagement, aligning with company values and initiatives.
 
 ---
+<style>
+.video-container {
+    margin-top: -20px;
+}
+</style>
+
 ### Co-led DMA's Tech Day
-<video width="640" height="480" controls>
-  <source src="img/TechDay.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
-Additionally, I co-led a creative programming workshop for students, incorporating micro:bit and Java basics. By leveraging social media promotion, including Facebook advertising, we achieved a remarkable 50% increase in workshop attendance. During the workshop, I took the stage and delivered presentations, engaging students in interactive sessions to teach them about micro:bit and fundamental concepts of Java programming, such as functions, variables, input, and output. The positive feedback received from the participants indicated their enhanced understanding and enthusiasm for coding.
+<div class="video-container">
+    <video width="640" height="480" controls>
+        <source src="img/TechDay.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+That was the DMA Tech Day Ad I contributed to!
 
+#### Summary
+I co-led a creative programming workshop for students, incorporating micro:bit and Java basics. By leveraging social media promotion, including Facebook and youtube advertising, we achieved a 50% increase in workshop attendance. During the workshop, I took the stage and delivered presentations, engaging students in interactive sessions to teach them about micro:bit and fundamental concepts of Java programming, such as functions, variables, input, and output. The positive feedback received from the participants indicated their enhanced understanding and enthusiasm for coding.
 ![DMA Image](img/DMA/tech.JPG)
 
+#### Impacts
+-Increased access to programming knowledge for participants.
+-Improved digital literacy among workshop attendees.
+-Promotion of STEM education and interest in coding.
+-Contribution to building a pipeline of future programmers and technologists.
+-Strengthening the local community through educational initiatives.
+
+#### Skills Developed
+-Leadership: Co-leading the workshop required taking charge, coordinating with others, and effectively delivering presentations, showcasing your leadership skills.
+-Communication: Engaging students through interactive sessions and delivering presentations demonstrated your ability to communicate complex concepts in a clear and engaging manner.
+-Adaptability: Leveraging social media promotion and incorporating different programming platforms showcased your adaptability in utilizing various tools to achieve desired outcomes.
+-Teaching and Facilitation: Guiding students through the workshop and helping them understand programming concepts highlighted your skills in teaching and facilitating a learning environment.
+-Problem-solving: Overcoming challenges, such as promoting the workshop and ensuring active student participation, required problem-solving and finding effective solutions.
+-Collaboration: Co-leading the workshop involved collaborating with other organizers, sharing responsibilities, and working together to create a successful event.
+
+---
+### Togetherness
+
+#### Summary
+As the Youth Forum President at DMA, I have actively focused on motivating and engaging our youth members in various cultural programs. With over 20 young individuals participating, our programs encompass a wide range of activities including singing, dancing, acting, photography, emceeing, and conducting games. I have encouraged and fostered their involvement, creating a sense of ownership and empowerment among them. 
+![DMA Image](img/DMA/picnic.JPG)
+
+#### Impacts
+-Increased cultural awareness: By organizing and promoting diverse cultural programs, you contribute to increasing cultural awareness among the community. People have the opportunity to learn about different traditions, customs, and art forms, fostering a more inclusive and culturally rich environment.
+-Skill development and empowerment: Through their participation in cultural programs, individuals gain the opportunity to develop new skills and talents. This empowerment enables them to express themselves creatively, boost their self-confidence, and pursue their passions.
+-Community engagement: The cultural programs you organize create platforms for community members to come together, interact, and engage in shared activities. This fosters a sense of community spirit and unity, strengthening social bonds and relationships.
+
+#### Skills Developed
+-Leadership: Taking on the role of Youth Forum President and actively focusing on motivating and engaging youth members in cultural programs demonstrates your leadership abilities in organizing and driving initiatives.
+-Communication: Effectively communicating with youth members and promoting cultural programs requires strong communication skills to convey the importance and benefits of participation.
+-Event management: Organizing and coordinating cultural programs involves skills in event planning, scheduling, and logistics management to ensure smooth execution.
+-Collaboration: Working with youth members, volunteers, and other stakeholders to plan and execute cultural programs fosters collaboration and teamwork skills.
+-Empathy and inclusivity: Creating a sense of ownership and empowerment among youth members involves understanding their needs and perspectives, promoting inclusivity, and ensuring everyone feels valued and included.
+-Creativity and adaptability: Developing diverse cultural programs that encompass a range of activities requires creative thinking and adaptability to cater to different interests and preferences.
+
+---
 ---
 
-Furthermore, I took the initiative to host a successful charity event aimed at collecting canned food for Gleaners, a local charitable organization. Through strategic advertising using flyers and personal motivation, I encouraged kids to reach out to their connections and ask for donations of canned food. As a result, we collected over 500 cans of food, making a positive impact on the community and fostering a sense of social responsibility among the youth.
+# Long-time Commitment to DMA
 
-In summary, as DMA's Youth Forum President, I demonstrated effective leadership by motivating youth participation in cultural programs, organizing a successful programming workshop, and hosting a charitable event. My efforts not only showcased the talents of our youth but also empowered them to make a positive difference in the community.
+Throughout my journey with DMA since 2011, I have continuously embraced opportunities to showcase my talents in singing, dancing, emceeing, and leading. The growth I have experienced personally and artistically has been truly remarkable. In 2021, I proudly served as the Youth Vice President, followed by my role as the Youth President in 2022, which deepened my commitment and passion for DMA. My unwavering dedication and love for this organization drive my long-term commitment to continue my involvement for as long as I am in Detroit. DMA has provided me with a platform to express my creativity, develop leadership skills, and foster connections within the community. I am grateful for the transformative experiences and cultural appreciation that DMA has cultivated within me, and I eagerly look forward to contributing to its success and making a lasting impact on the lives of others.
 

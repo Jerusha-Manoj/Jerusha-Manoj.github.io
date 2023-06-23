@@ -22,7 +22,7 @@ In my first month as DMA's Youth Forum President, I organized a charity event ai
 ---
 ## Co-led DMA's Tech Day
 <video width="640" height="480" controls>
-  <source src="img/TechDay.mov" type="video/quicktime">
+  <source src="img/TechDay.mp4" type="video/quicktime">
   Your browser does not support the video tag.
 </video>
 

@@ -22,7 +22,8 @@
                 <div class="post-content">
                   {% assign paragraphs = post.content | markdownify | split: '</p>' %}
                   {% for paragraph in paragraphs %}
-                    <p style="text-align: left;">{{ paragraph | replace: '<p>', '' | append: '</p>' }}</p>
+                    {% capture paragraphContent %}{{ paragraph | replace: '<p>', '' }}{% endcapture %}
+                    <p style="text-align: left;">{{ paragraphContent }}</p>
                   {% endfor %}
                 </div>
               </div>

@@ -18,6 +18,9 @@
             <div class="post-image">
               <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             </div>
+            <div class="post-content">
+              {{ post.content | markdownify }}
+            </div>
           </div>
         </div>
         <div class="col-lg-6">

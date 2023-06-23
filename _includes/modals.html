@@ -20,11 +20,7 @@
               </div>
               <div class="col-lg-12">
                 <div class="post-content">
-                  {% assign paragraphs = post.content | markdownify | split: '</p>' %}
-                  {% for paragraph in paragraphs %}
-                    {% capture paragraphContent %}{{ paragraph | replace: '<p>', '' }}{% endcapture %}
-                    <p style="text-align: left;">{{ paragraphContent }}</p>
-                  {% endfor %}
+                  {{ post.content | markdownify | replace: '<p>', '<p style="text-align: left;">' }}
                 </div>
               </div>
             </div>

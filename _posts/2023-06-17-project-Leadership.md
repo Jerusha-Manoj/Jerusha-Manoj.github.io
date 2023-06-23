@@ -16,7 +16,7 @@ heading: Youth President, Youth Vice President, Member
 ---
 ---
 ### A Successful Charity Event
-![DMA Image](img/DMA/cans.JPG){: style="width: 200px; height: auto; object-fit: cover;"}
+![DMA Image](img/DMA/cans.JPG){: style="width: 600px; height: auto; object-fit: cover;"}
 
 #### Summary
 <p>In my first month as DMA's Youth Forum President, I organized a successful charity event aimed at collecting canned food for Gleaners, a local charitable organization. Through strategic communication efforts, including flyers and messages, I effectively encouraged participation and engagement from diverse age groups. Not only did we surpass our goal of collecting 300 cans, but we exceeded expectations by gathering over 500 cans of food. Additionally, I enlisted Youth Forum volunteers to assist in shelving the collected food, providing them with a valuable hands-on experience and a deeper understanding of the impactful work carried out by Gleaners.</p>
@@ -74,7 +74,7 @@ heading: Youth President, Youth Vice President, Member
 
 ---
 ### Togetherness
-![DMA Image](img/DMA/picnic.JPG){: style="width: 200px; height: auto; object-fit: cover;"}
+![DMA Image](img/DMA/picnic.JPG){: style="width: 600px; height: auto; object-fit: cover;"}
 #### Summary
 <p>As the Youth Forum President at DMA, I have actively focused on motivating and engaging our youth members in various cultural programs. With over 20 young individuals participating, our programs encompass a wide range of activities including singing, dancing, acting, photography, emceeing, and conducting games. I have encouraged and fostered their involvement, creating a sense of ownership and empowerment among them.</p>
 

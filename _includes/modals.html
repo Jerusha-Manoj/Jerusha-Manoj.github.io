@@ -11,7 +11,7 @@
     </div>
     <div class="container">
       <div class="row">
-        <div class="col-lg-6 offset-lg-3">
+        <div class="col-lg-8 col-lg-offset-2">
           <div class="modal-body">
             <h2>{{ post.title }}</h2>
             <hr class="star-primary">
@@ -19,7 +19,7 @@
               <div class="col-lg-6">
                 <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
               </div>
-              <div class="col-lg-6">
+              <div class="col-lg-6 text-right">
                 {% if post.description %}
                 <p>{{ post.description }}</p>
                 {% endif %}
@@ -42,7 +42,7 @@
                 </ul>
               </div>
             </div>
-            <div class="text-right">
+            <div class="text-center">
               <div class="post-content">
                 {{ post.content | markdownify }}
               </div>

@@ -12,7 +12,7 @@ client: DMA
 heading: Youth President, Youth Vice President, Member
 #subheading: Jerusha Manoj
 ---
-# Presidency
+# My Presidency
 ---
 ---
 ### A Successful Charity Event

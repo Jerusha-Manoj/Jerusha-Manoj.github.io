@@ -14,12 +14,13 @@ subheading: Jerusha Manoj
 ---
 
 # Presidency
-
+---
 ## Successful Charity Event
 ![DMA Image](img/DMA/cans.JPG)
 In my first month as DMA's Youth Forum President, I organized a charity event aimed at collecting canned food for the local charitable organization, Gleaners. Our goal was to collect 300 cans of food in three weeks, but we exceeded expectations, and over 500 cans were collected. In addition to the collection effort, I enlisted Youth Forum volunteers to assist in shelving the food and learn about Gleaners, providing them with a hands-on experience and a deeper understanding of the organization's impactful work. This event not only made a positive impact on the community but also fostered a sense of social responsibility and civic engagement among the youth volunteers.
 
-
+---
+## Co-led DMA's Tech Day
 <video width="640" height="480" controls>
   <source src="img/TechDay.mov" type="video/quicktime">
   Your browser does not support the video tag.

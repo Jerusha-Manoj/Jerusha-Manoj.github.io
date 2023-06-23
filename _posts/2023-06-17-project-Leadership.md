@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leadership
+title: Detroit Malayalee Association
 modal-id: 3
 date: 2023-06-19
 img: DMA.png
@@ -9,14 +9,14 @@ project-date: June 2022
 client: DMA
 #category: Web Development
 #description: This is an example portfolio item description.
-heading: President, Vice President, Member
+heading: Youth President, Youth Vice President, Member
 #subheading: Jerusha Manoj
 ---
 # Presidency
 ---
 ---
 ### A Successful Charity Event
-![DMA Image](img/DMA/cans.JPG)
+![DMA Image](img/DMA/cans.JPG){: style="width: 200px; height: auto; object-fit: cover;"}
 
 #### Summary
 <p>In my first month as DMA's Youth Forum President, I organized a successful charity event aimed at collecting canned food for Gleaners, a local charitable organization. Through strategic communication efforts, including flyers and messages, I effectively encouraged participation and engagement from diverse age groups. Not only did we surpass our goal of collecting 300 cans, but we exceeded expectations by gathering over 500 cans of food. Additionally, I enlisted Youth Forum volunteers to assist in shelving the collected food, providing them with a valuable hands-on experience and a deeper understanding of the impactful work carried out by Gleaners.</p>
@@ -50,7 +50,8 @@ heading: President, Vice President, Member
         Your browser does not support the video tag.
     </video>
 </div>
-That was the DMA Tech Day Ad I contributed to!
+
+###### That was the DMA Tech Day Ad I contributed to!
 
 #### Summary
 <p>I co-led a creative programming workshop for students, incorporating micro:bit and Java basics. By leveraging social media promotion, including Facebook and youtube advertising, we achieved a 50% increase in workshop attendance. During the workshop, I took the stage and delivered presentations, engaging students in interactive sessions to teach them about micro:bit and fundamental concepts of Java programming, such as functions, variables, input, and output. The positive feedback received from the participants indicated their enhanced understanding and enthusiasm for coding.</p>
@@ -73,10 +74,9 @@ That was the DMA Tech Day Ad I contributed to!
 
 ---
 ### Togetherness
-
+![DMA Image](img/DMA/picnic.JPG){: style="width: 200px; height: auto; object-fit: cover;"}
 #### Summary
 <p>As the Youth Forum President at DMA, I have actively focused on motivating and engaging our youth members in various cultural programs. With over 20 young individuals participating, our programs encompass a wide range of activities including singing, dancing, acting, photography, emceeing, and conducting games. I have encouraged and fostered their involvement, creating a sense of ownership and empowerment among them.</p>
-![DMA Image](img/DMA/picnic.JPG)
 
 #### Impacts
 <p>-Increased cultural awareness: By organizing and promoting diverse cultural programs, you contribute to increasing cultural awareness among the community. People have the opportunity to learn about different traditions, customs, and art forms, fostering a more inclusive and culturally rich environment.<br>

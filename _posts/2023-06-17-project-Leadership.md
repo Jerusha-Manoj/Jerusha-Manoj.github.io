@@ -28,7 +28,7 @@ heading: Youth President, Youth Vice President, Member
 -Engaged individuals and provided them with an opportunity to make a positive impact by donating canned food to support Gleaners' cause.<br>
 -Provided volunteers with a hands-on experience, allowing them to develop a deeper understanding of Gleaners' impactful work and the importance of community involvement.<br></p>
 
-<img src="img/DMA/flyer.JPG" alt="DMA Image" style="width: 400px; height: auto;">
+![DMA Image](img/DMA/flyer.JPG){: width="300" height="200" }
 
 #### Skills Developed
 <p>-Leadership skills demonstrated through successful organization of a charity event as Youth Forum President.<br>
@@ -58,7 +58,7 @@ heading: Youth President, Youth Vice President, Member
 #### Summary
 <p>I co-led a creative programming workshop for students, incorporating micro:bit and Java basics. By leveraging social media promotion, including Facebook and youtube advertising, we achieved a 50% increase in workshop attendance. During the workshop, I took the stage and delivered presentations, engaging students in interactive sessions to teach them about micro:bit and fundamental concepts of Java programming, such as functions, variables, input, and output. The positive feedback received from the participants indicated their enhanced understanding and enthusiasm for coding.</p>
 
-<img src="img/DMA/tech.JPG" alt="DMA Image" style="width: 600px; height: auto;">
+![DMA Image](img/DMA/tech.JPG){: width="300" height="200" }
 
 #### Impacts
 <p>-Increased access to programming knowledge for participants.<br>

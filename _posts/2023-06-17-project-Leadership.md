@@ -74,7 +74,7 @@ heading: Youth President, Youth Vice President, Member
 
 ---
 ### Togetherness
-![DMA Image](img/DMA/picnic.JPG){: style="width: 600px; height: auto; object-fit: cover;"}
+<img src="img/DMA/picnic.JPG" alt="DMA Image" style="width: 600px; height: auto;">
 #### Summary
 <p>As the Youth Forum President at DMA, I have actively focused on motivating and engaging our youth members in various cultural programs. With over 20 young individuals participating, our programs encompass a wide range of activities including singing, dancing, acting, photography, emceeing, and conducting games. I have encouraged and fostered their involvement, creating a sense of ownership and empowerment among them.</p>
 

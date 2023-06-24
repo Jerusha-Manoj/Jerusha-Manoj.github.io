@@ -13,7 +13,7 @@ heading: Youth President, Youth Vice President, Member
 #subheading: Jerusha Manoj
 ---
 # My Presidency
-<img src="img/DMA/DMADMA.JPG" alt="DMA Image" style="width: 600px; height: auto;"><br>
+<img src="img/DMA/DMADMA2.JPG" alt="DMA Image" style="width: 600px; height: auto;"><br>
 
 ---
 ---
@@ -107,5 +107,12 @@ heading: Youth President, Youth Vice President, Member
 ---
 
 # Long-time Commitment to DMA
+<img src="img/DMA2/Young.jpeg" alt="DMA Image" style="width: 600px; height: auto;"><br>
 
 <p>Throughout my journey with DMA since 2011, I have continuously embraced opportunities to showcase my talents in singing, dancing, emceeing, and leading. The growth I have experienced personally and artistically has been truly remarkable. In 2021, I proudly served as the Youth Vice President, followed by my role as the Youth President in 2022, which deepened my commitment and passion for DMA. My unwavering dedication and love for this organization drive my long-term commitment to continue my involvement for as long as I am in Detroit. DMA has provided me with a platform to express my creativity, develop leadership skills, and foster connections within the community. I am grateful for the transformative experiences and cultural appreciation that DMA has cultivated within me, and I eagerly look forward to contributing to its success and making a lasting impact on the lives of others.</p>
+<img src="img/DMA2/dance.jpeg" alt="DMA Image" style="width: 600px; height: auto;"><br>
+<img src="img/DMA2/don.jpeg" alt="DMA Image" style="width: 600px; height: auto;"><br>
+<img src="img/DMA2/cult2.jpeg" alt="DMA Image" style="width: 600px; height: auto;"><br>
+<img src="img/DMA2/wings.jpeg" alt="DMA Image" style="width: 600px; height: auto;"><br>
+<img src="img/DMA2/stand.jpeg" alt="DMA Image" style="width: 600px; height: auto;"><br>
+<img src="img/DMA2/neha.jpeg" alt="DMA Image" style="width: 600px; height: auto;"><br>

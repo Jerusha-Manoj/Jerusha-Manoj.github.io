@@ -15,7 +15,7 @@ client: DTE
 <img src="img/DTEslide/2.png" alt="DTE Image" style="width: 600px; height: auto;"><br>
 ### My Agile Plan
 <img src="img/DTEslide/3.png" alt="DTE Image" style="width: 600px; height: auto;"><br>
-### What the my App Featured
+### What the App Featured
 <img src="img/DTEslide/4.png" alt="DTE Image" style="width: 600px; height: auto;"><br>
 ### Recreation of the App
 <img src="img/DTEslide/5.png" alt="DTE Image" style="width: 600px; height: auto;"><br>

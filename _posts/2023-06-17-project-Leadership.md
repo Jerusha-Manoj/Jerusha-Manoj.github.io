@@ -29,7 +29,7 @@ heading: Youth President, Youth Vice President, Member
 -Provided volunteers with a hands-on experience, allowing them to develop a deeper understanding of Gleaners' impactful work and the importance of community involvement.<br></p><br>
 
 ![DMA Image](img/DMA/flyer.JPG){: width="300" height="500" }
-###### The Flyer Made to Avdertise
+###### The Flyer Made to Advertise
 <br>
 
 #### Skills Developed

@@ -10,7 +10,8 @@ client: Start Bootstrap
 category: Github
 description:
 ---
-## Content Creator
+### Content Creator
+<br>
 <img src="img/cd/glow.png" alt="DMA Image" style="width: 600px; height: auto;"><br>
 
 ### How I started

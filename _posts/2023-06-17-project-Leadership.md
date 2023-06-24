@@ -76,7 +76,6 @@ heading: Youth President, Youth Vice President, Member
 #### Skills Developed
 <p>-Leadership: Co-leading the workshop required taking charge, coordinating with others, and effectively delivering presentations, showcasing leadership skills.<br>
 -Communication: Engaging students through interactive sessions and delivering presentations demonstrated ability to communicate complex concepts in a clear and engaging manner.<br>
--Adaptability: Leveraging social media promotion and incorporating different programming platforms showcased adaptability in utilizing various tools to achieve desired outcomes.<br>
 -Teaching and Facilitation: Guiding students through the workshop and helping them understand programming concepts highlighted skills in teaching and facilitating a learning environment.<br>
 -Problem-solving: Overcoming challenges, such as promoting the workshop and ensuring active student participation, required problem-solving and finding effective solutions.<br>
 -Collaboration: Co-leading the workshop involved collaborating with other organizers, sharing responsibilities, and working together to create a successful event.<br></p><br>

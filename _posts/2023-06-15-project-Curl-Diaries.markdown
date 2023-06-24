@@ -22,6 +22,7 @@ description:
 <p>Curl-Diaries has achieved success, amassing a dedicated following of 10,600 on TikTok with 420,000 likes, while the blog component has become a resource for individuals seeking recommendations for their curly hair. The project's positive impact is evident in the feedback received, as people express gratitude for the guidance provided, enabling them to embrace and love their natural curls. Additionally, Curl-Diaries has fostered a strong sense of community, allowing individuals to connect, share experiences, and seek advice, further amplifying its positive influence in the curly hair community.</p><br>
 <img src="img/cd/blog.png" alt="DMA Image" style="width: 600px; height: auto;"><br>
 <br>
+
 ### How I used it to learn GitHub
 <img src="img/cd/chart.png" alt="DMA Image" style="width: 600px; height: auto;"><br>
 <p>Through the process of creating Curl-Diaries on GitHub, I embarked on a journey of learning and exploration. It was my first time using the platform. While I initially began by forking a repository, this experience allowed me to dive into the world of files and their purpose within GitHub. By customizing these files to suit my needs and make the project align with my vision, I gained a deeper understanding of the platform's structure and familiarized myself with essential GitHub terms. As a beginner, this served as a solid foundation for my understanding of GitHub, and I am excited to continue growing and expanding my skills on this platform as I further develop Curl-Diaries.</p><br>

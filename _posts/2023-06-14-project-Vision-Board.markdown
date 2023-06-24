@@ -10,10 +10,10 @@ client: Ambitious individuals
 category: App
 ---
 ## My Idea and How I will Implement it
-<img src="img/iphone.png" alt="DMA Image" style="width: 600px; height: auto;"><br>
+<img src="img/iphone.png" alt="DMA Image" style="width: 600px; height: auto;">
 
 ### The Idea
-<p>Virtual Vision Board: Users can create their own virtual vision board within the app, allowing them to visually represent their goals and aspirations. They can add inspiring elements to the board as they achieve their objectives, bringing their dreams to life in a tangible way.<br>
+<p>Virtual Vision Board: Users can create their own virtual vision board within the app, allowing them to visually represent their goals and aspirations. They can add inspiring elements to the board as they achieve their objectives, bringing their dreams to life in a tangible way.<br><br>
 
 Here are some features I want to implement<br>
 
@@ -26,7 +26,8 @@ Here are some features I want to implement<br>
 -And more!</p><br>
 
 ### I Will Mentality!
-<p>-I will set clear and achievable goals for the app, focusing on key features like the virtual vision board, goal tracking, to-do lists, and end-of-year summary. I'll create a prioritized list of functionalities to guide my development process.<br>
+<p>In order to make this app happen, I will have a growth mindset and not a fixed one. That starts with saying I will!<br>
+-I will set clear and achievable goals for the app, focusing on key features like the virtual vision board, goal tracking, to-do lists, and other features. I'll create a prioritized list of functionalities to guide my development process.<br>
 
 -I will dedicate time to learning Xcode, Apple's user-friendly development environment for iOS apps. I'll take advantage of beginner-friendly online tutorials, video courses, and documentation to build a solid foundation in using Xcode.<br>
 
@@ -47,6 +48,7 @@ Here are some features I want to implement<br>
 -Finally, I will follow Apple's user-friendly guidelines and documentation to publish the app on the App Store. I'll take it one step at a time, carefully following the submission process to make my app available to a wide audience.</p><br>
 
 #### Ironically, if I had this app, it would be a great motivator to complete a goal like this!
+<p>As a beginner, I fully acknowledge that developing this app will require dedicated time and effort. However, I am committed to investing the necessary resources and overcoming challenges along the way to bring this innovative goal-tracking and motivational tool to life.</p>
 
 
 

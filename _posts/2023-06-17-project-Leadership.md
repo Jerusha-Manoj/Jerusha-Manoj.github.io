@@ -14,7 +14,7 @@ heading: Youth President, Youth Vice President, Member
 ---
 # My Presidency
 <img src="img/DMA/DMADMA2.JPG" alt="DMA Image" style="width: 600px; height: auto;"><br>
-
+#### Detroit Malayalee Association aka DMA is a non-profit organization promoting culture and philanthropy 
 ---
 ---
 ## A Successful Charity Event

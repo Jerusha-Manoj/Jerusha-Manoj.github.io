@@ -23,7 +23,7 @@ Here are some features I want to implement<br><br>
 
 -End-of-Year Summary<br>
 
--And more!</p><br>
+-And more!<br>
 
 ### I Will Mentality!
 <p>In order to make this app happen, I will have a growth mindset and not a fixed one. That starts with saying I will!<br><br>

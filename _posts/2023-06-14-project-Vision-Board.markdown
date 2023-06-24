@@ -25,7 +25,7 @@ Here are some features I want to implement<br><br>
 
 -And more!<br>
 
-### I Will Mentality!
+### Growth Mindset
 <p>In order to make this app happen, I will have a growth mindset and not a fixed one. That starts with saying I will!<br><br>
 -I will set clear and achievable goals for the app, focusing on key features like the virtual vision board, goal tracking, to-do lists, and other features. I'll create a prioritized list of functionalities to guide my development process.<br>
 

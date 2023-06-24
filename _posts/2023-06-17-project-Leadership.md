@@ -13,6 +13,8 @@ heading: Youth President, Youth Vice President, Member
 #subheading: Jerusha Manoj
 ---
 # My Presidency
+<img src="img/DMA/DMADMA.JPG" alt="DMA Image" style="width: 600px; height: auto;"><br>
+
 ---
 ---
 ## A Successful Charity Event

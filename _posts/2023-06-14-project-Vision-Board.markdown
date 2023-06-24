@@ -17,11 +17,11 @@ category: App
 
 Here are some features I want to implement<br>
 
--Goal Tracking: The app provides a comprehensive goal-tracking system, enabling users to monitor their progress and stay motivated. They can easily see how far they've come and what remains to be accomplished.<br>
+-Goal Tracking<br>
 
--To-Do Lists: Users can create to-do lists for each goal, breaking them down into actionable tasks. This feature helps individuals outline the necessary steps to accomplish their objectives and provides a clear roadmap for success.<br>
+-To-Do Lists<br>
 
--Empowering Experience: The app aims to empower individuals to take control of their goals and dreams. By providing a dynamic and visually appealing platform, users can stay engaged, motivated, and celebrate their accomplishments along the way.
+-End-of-Year Summary<br>
 
 -And more!</p><br>
 

@@ -8,6 +8,7 @@ alt: image-alt
 project-date: June 2022
 client: DTE
 ---
+### DTE is a Detroit-based energy company
 ### Scroll and see see how I did my projects at DTE!
 
 <img src="img/DTE2/1.png" alt="DTE Image" style="width: 600px; height: auto;"><br>

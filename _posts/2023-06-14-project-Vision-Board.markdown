@@ -48,7 +48,7 @@ Here are some features I want to implement<br><br>
 -Finally, I will follow Apple's user-friendly guidelines and documentation to publish the app on the App Store. I'll take it one step at a time, carefully following the submission process to make my app available to a wide audience.</p><br>
 
 #### Ironically, if I had this app, it would be a great motivator to complete a goal like this!
-<p>As a beginner, I fully acknowledge that developing this app will require dedicated time and effort. However, I am committed to investing the necessary resources and overcoming challenges along the way to bring this innovative goal-tracking and motivational tool to life.</p>
+<p>As a beginner, I know that developing this app will require dedicated time and effort. However, I am committed to investing the necessary resources and overcoming challenges along the way to bring this innovative goal-tracking and motivational tool to life.</p>
 
 
 
